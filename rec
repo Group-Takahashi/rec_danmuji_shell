@@ -1,0 +1,4 @@
+#!/bin/sh
+cd /opt/sd/1T/bililive
+read -p "roomID:" roomid
+./BililiveRecorder.Cli portable "files" $roomid
