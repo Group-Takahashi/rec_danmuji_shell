@@ -1,10 +1,8 @@
 文件在Windows编辑过 Windows每一行结尾是\n\r Linux是\n<br>
 文件中行尾的\r替换为空白<br>
-```
-sed -i 's/\r$//' dst
-sed -i 's/\r$//' update
-sed -i 's/\r$//' update.cmd
-```
+`
+sed -i 's/\r$//' rec
+`
 ## 路径
 
 rec-> /
