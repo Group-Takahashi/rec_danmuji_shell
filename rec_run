@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /opt/sd/1T/bililive
+./BililiveRecorder.Cli run /opt/sd/1T/bililive/files
