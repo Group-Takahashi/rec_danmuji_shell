@@ -10,7 +10,7 @@ rec_run -> 读取配置文件运行，文件将保存在config.json所在目录�
 
 ## 路径
 
-rec-> /
+rec-> /<br>
 rec_run-> /
 
 ## 运行
